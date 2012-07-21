@@ -61,7 +61,7 @@
       })
 
       this.$menu.css({
-        top: pos.top + pos.height
+        top: pos.top + pos.height + 5
       , left: pos.left
       })
 
